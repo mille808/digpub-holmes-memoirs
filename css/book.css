@@ -5,3 +5,6 @@ h3 {
 p {
   font-family: "Times New Roman", serif;
 }
+figcaption {
+  font-weight: bold;
+}
