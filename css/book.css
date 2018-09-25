@@ -1,3 +1,9 @@
 h3 {
   font-family: "Georgia", serif;
 }
+
+figcaption {
+  font-family: "Garamond", serif;
+  color: gray;
+  font-size: 150%;
+}
