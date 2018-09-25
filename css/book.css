@@ -12,6 +12,10 @@ figcaption {
   text-align: center;
 }
 
+img {
+  margin: auto;
+}
+
 p {
   font-family: "Arial", sans-serif;
   color: green;
